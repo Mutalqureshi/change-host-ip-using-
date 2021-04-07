@@ -1,0 +1,14 @@
+C:\Windows\System32\drivers\etc
+
+23.229.234.69			new.germwise.com
+
+
+ipconfig /flushdns
+
+
+#192.185.167.110                   www.dorisvilk.com
+#192.185.167.110                   *.dorisvilk.com
+
+
+
+# se comment hota h.
